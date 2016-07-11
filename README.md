@@ -11,6 +11,8 @@ Usage
  - Set `senderoServerUDPPort` and `socketIOServerPort` constants in app.js file accordingly to your Sendero configuration.
  - Execute with `node app.js`.
 
---------
+
+--------------
+Logo designed by flaviarampa@gmail.com & nilsonbarbara@gmail.com
 
 For more information about Sendero Project go to the [base repository](https://github.com/LaboratorioDeMedios/SenderoProject).
