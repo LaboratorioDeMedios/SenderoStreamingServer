@@ -13,4 +13,4 @@ Usage
 
 --------
 
-For more information about Sendero Project go to the [base repository](https://github.com/Sendero-Project/Sendero).
+For more information about Sendero Project go to the [base repository](https://github.com/LaboratorioDeMedios/SenderoProject).
